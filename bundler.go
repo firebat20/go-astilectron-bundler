@@ -4,7 +4,6 @@ import (
 	"context"
 	"fmt"
 	"go/build"
-	"io/ioutil"
 	"os"
 	"os/exec"
 	"os/signal"
@@ -756,7 +755,7 @@ func (b *Bundler) finishDarwin(environmentPath, binaryPath string) (err error) {
 	if b.darwinAgentApp {
 		lsuiElement = "YES"
 	}
-	if err = ioutil.WriteFile(fp, []byte(`<?xml version="1.0" encoding="UTF-8"?>
+	if err = os.WriteFile(fp, []byte(`<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>

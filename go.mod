@@ -1,11 +1,11 @@
-module github.com/asticode/go-astilectron-bundler
+module github.com/firebat20/go-astilectron-bundler
 
 go 1.25
 
 require (
 	github.com/akavel/rsrc v0.10.2
 	github.com/asticode/go-astikit v0.56.0
-	github.com/firebat20/go-astilectron v0.30.0
+	github.com/firebat20/go-astilectron v1.0.0
 	github.com/firebat20/go-bindata v1.0.0
 	github.com/sam-kamerer/go-plister v1.2.0
 	github.com/stretchr/testify v1.11.1
