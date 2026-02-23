@@ -4,10 +4,10 @@ github.com/asticode/go-astikit v0.57.1 h1:fEykwH98Nny08kcRbk4uer+S8h0rKveCIpG9F6
 github.com/asticode/go-astikit v0.57.1/go.mod h1:fV43j20UZYfXzP9oBn33udkvCvDvCDhzjVqoLFuuYZE=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/firebat20/go-astilectron v0.0.0-20251012034004-e5ff866697eb h1:2IuKCcC0rcY2GnkoPyJwhzZmcJ1LfZAyk0rsbDlBics=
-github.com/firebat20/go-astilectron v0.0.0-20251012034004-e5ff866697eb/go.mod h1:LxxyXKBhn92wAwWay3SDM3IpcqwyXFxABK9jxlB9xpE=
-github.com/firebat20/go-bindata v0.0.0-20251027022929-ab1e0d038ddb h1:D5Oh+58oWm2syDZe5vndGsKi/7/n3lUKk4TxPWFPysw=
-github.com/firebat20/go-bindata v0.0.0-20251027022929-ab1e0d038ddb/go.mod h1:SJWQ2+3Cv/iltVFXqcDdSTTTQIzU+1aNIZpSf/bmb3Q=
+github.com/firebat20/go-astilectron v0.0.0-20260118150311-a0d2e083ecb1 h1:I4pyxtCB54JcFX9E2CjK4clTWM6DK/Kett5ktUMIcqI=
+github.com/firebat20/go-astilectron v0.0.0-20260118150311-a0d2e083ecb1/go.mod h1:5TzyuEYLK1wbjGWqxYov49yPYceqjTo1jnUgGj84fCE=
+github.com/firebat20/go-bindata v0.0.0-20260223060200-11071542feef h1:RzNiiaIMYiBQ57RAP4rkkPLi8OmLuyYJh0iPBOwRu4A=
+github.com/firebat20/go-bindata v0.0.0-20260223060200-11071542feef/go.mod h1:1yDpc/yE5RukyUi5Zqc27bQsRqcafqQQzfToVz+qvic=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/sam-kamerer/go-plister v1.2.0 h1:ZdEF1bhPUoGzwz5eFljw2K/A+oRXq/81jul/A3CHKEY=
