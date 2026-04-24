@@ -4,8 +4,8 @@ go 1.26
 
 require (
 	github.com/akavel/rsrc v0.10.2
-	github.com/asticode/go-astikit v0.57.1
-	github.com/firebat20/go-astilectron v0.0.0-20260118150311-a0d2e083ecb1
+	github.com/asticode/go-astikit v0.59.0
+	github.com/firebat20/go-astilectron v0.0.0-20260424023421-2261bc12f84b
 	github.com/firebat20/go-bindata v0.0.0-20260223060200-11071542feef
 	github.com/sam-kamerer/go-plister v1.2.0
 	github.com/stretchr/testify v1.11.1
